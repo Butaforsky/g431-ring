@@ -1,0 +1,3 @@
+[submodule "stm32-libraries"]
+	path = stm32-libraries
+	url = https://github.com/Butaforsky/stm32-libraries.git
